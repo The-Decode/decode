@@ -2,7 +2,7 @@
 
 The First-ever platform on the Tron blockchain, revolutionizing the way developers showcase their coding skills and earn stellar rewards!:moneybag: A place where coding meets opportunity. Look no further! At Code Hive, we’re changing the way problems get solved. We provide a vibrant space where individuals and businesses can throw their toughest challenges at developers. It’s where creativity thrives, and solutions come to life.
 
-🏹 Motivation Behind Building CodeHive
+🏹 Motivation Behind Building Decode
 
 Recognizing a gap in the tech industry, we observed that while developers have numerous platforms like LeetCode, Codeforces, and HackerRank to practice and solve code, none of them offered rewards for problem-solving or provided a space for companies or individuals to issue challenges. Thus, we set out to fill this void by creating Code Hive, a platform where developers are incentivized to solve challenges, and both businesses and individuals can issue their problems for resolution.
 
